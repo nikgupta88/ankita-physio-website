@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', function () {
             }
 
             el.textContent = count + '+';
-        }, 30);
+        }, 100);
     });
 
     // Floating WhatsApp Button
