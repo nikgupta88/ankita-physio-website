@@ -1097,10 +1097,11 @@ opacity: .5; }
     object-fit: cover;
     transition: transform .5s ease;
     width: calc(100% + 44px);
+    transition:transform .5s ease;
 }
 
 .service-card:hover img {
-    transform: scale(1.04);
+    transform:scale(1.08);
 }
 
 .service-icon {
