@@ -1070,6 +1070,7 @@ opacity: .5; }
 
 .service-grid > [class*="col-"] {
     display: flex;
+    padding-top: 10px;
 }
 
 .service-card {
@@ -2077,6 +2078,7 @@ margin:0;
 .service-grid .col-md-3,
 .service-grid .col-sm-6{
  width:100%;
+ padding-top: 10px;
 }
 
 .service-card{
